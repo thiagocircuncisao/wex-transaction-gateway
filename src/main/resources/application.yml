@@ -2,4 +2,5 @@ spring:
   profile:
     active: local
 
-transaction-service-url: "localhost:8081"
+transaction-service:
+  url: 'http://localhost:8081'
