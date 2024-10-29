@@ -1,0 +1,5 @@
+spring:
+  profile:
+    active: local
+
+transaction-service-url: "localhost:8081"
