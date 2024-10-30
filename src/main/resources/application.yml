@@ -3,4 +3,4 @@ spring:
     active: local
 
 transaction-service:
-  url: 'http://localhost:8081'
+  url: 'http://transaction-service:8081'
